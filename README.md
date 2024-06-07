@@ -2,8 +2,6 @@
 
 Project by: Rhythm Suthar
 
-# House Price Prediction Project
-
 ## Introduction
 
 Welcome to the House Price Prediction Project! This repository contains code and documentation for predicting house prices using advanced machine learning techniques. By leveraging Support Vector Regressor (SVR), Random Forest Regressor, and Gradient Boosting Regressor (GBR) models, this project aims to develop an accurate predictive model for house prices based on various property features.
