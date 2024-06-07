@@ -50,7 +50,6 @@ The following tools and libraries are used in this project:
     ```
 2. Navigate to the notebook file and open it.
 
-3. Follow the steps in the notebook to preprocess the data, train the models, evaluate their performance, and make predictions.
 
 ## Results
 
